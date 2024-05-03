@@ -444,7 +444,7 @@ Como Scrum Master, minha responsabilidade foi conduzir e coordenar as atividades
 Projeto Integrador - 5° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: [Oracle](https://www.oracle.com/br/)
 
 <br>
-<div align="center"><img src="https://github.com/PatrickSouzza/ols/blob/main/Oracle_Logo.jpg" width="60%" height="55%"></div>
+<div align="center"><img src="https://github.com/PatrickSouzza/Portfolio/blob/main/_0893aa90-9d1f-487f-9ce5-bc6a1f07adf8.png" width="60%" height="55%"></div>
 <div align="center">
 <br>
 
