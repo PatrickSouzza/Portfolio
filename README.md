@@ -95,13 +95,13 @@ Utilizei a biblioteca "pytelegrambotapi" para criar um bot do Telegram com uma i
 ## Soft Skills
 
 ### Trabalho em Equipe
-  * No meu primeiro projeto tive a oportunidade de desenvolver meu trabalho em equipe juntamente com meus colegas de sala onde desenvolvemos a aplição sem impecilhos.
+  * No meu primeiro projeto tive a oportunidade de desenvolver meu trabalho em equipe juntamente com meus colegas de sala onde desenvolvemos a aplicação sem empecilhos.
 ### Responsabilidade
   * Tive a responsabilidade de desenvolver minha parte do projeto atendendo os requisitos definidos juntamente da equipe e cliente.
 ### Autonomia
   * Desenvolvi minha autonomia estudando as ferramentas a serem utilizadas no projeto e colocá-las em prática atendendo aos requisitos da funcionalidade.
 ### Resolução de problemas
-  * Junto da equipe solucionei problemas diversos como as inconsistencias da base de dados que nos foi fornecida como na parte de datas e alguns dados que não eram relevantes para o bot.
+  * Junto com a equipe, solucionei problemas diversos como as inconsistencias da base de dados que nos foi fornecida como na parte de datas e alguns dados que não eram relevantes para o bot.
     
 
 </details>
@@ -280,9 +280,9 @@ Essa funcionalidade pode ser útil em cenários onde você precisa processar ou 
 
 * Python - Intermediário
 * Java - Básico
-* Spring Boot - Basico
+* Spring Boot - Básico
 * Automação de Download - Básico
-* HTML - Intemediário
+* HTML - Intermediário
 * CSS - Intermediário
 * GitHub - Intermediário
 
@@ -295,7 +295,7 @@ Essa funcionalidade pode ser útil em cenários onde você precisa processar ou 
 ### Proatividade
   * Ajudei outros colegas de time com tasks relacionadas ao Front-End como responsividade e estilização.
 ### Flexibilidade
-  * Durante este projeto atuei tanto no Back-End como no Front-End e me adptando bem a nova função.
+  * Durante este projeto atuei tanto no Back-End como no Front-End e me adaptando bem a nova função.
 ### Resolução de problemas 
   * Dentro de uma da atividade de automação de downloads me deparei com problemas como o acumulo de dados antigos os quais eu resolvi durante o desenvolvimento utilizado a biblioteca OS do Python.
 </details>
@@ -427,10 +427,227 @@ Como Scrum Master, minha responsabilidade foi conduzir e coordenar as atividades
 ### Adaptabilidade
   * Precisei exercitar minha adptabildade quando entrei para outro grupo onde a mão de obra era menor que do time anterior.
 ### Gestão de Tempo
-  * Devido a pouca mão de obra a gestão de tempo foi fundamental para o desnvolvimento do projeto onde deviamos acompanhar cada tasks com atenção aos prazos.
+  * Devido a pouca mão de obra a gestão de tempo foi fundamental para o desnvolvimento do projeto onde devíamos acompanhar cada tasks com atenção aos prazos.
 ### Flexibilidade
-  * Durante este projeto atuei como Scrum Master, responsavél pelo Front-End e pelo Banco da Dados onde precisei me flexibilizar entre todas as funções a serem exercidas.
+  * Durante este projeto atuei como Scrum Master, responsável pelo Front-End e pelo Banco de Dados, onde precisei me flexibilizar entre todas as funções a serem exercidas.
 ### Criatividade
-  * Precisei exercitar minha criatividade ao me deparar com desings diferentes para cada plataforma como o Web e o Mobile.
+  * Precisei exercitar minha criatividade ao me deparar com designs diferentes para cada plataforma como o Web e o Mobile.
 
 </details>
+
+<details>
+
+  <summary>5º - Oracle</summary>
+
+<h1 align="center"> Projeto 5: 2º Semestre de 2023 </h1>
+
+Projeto Integrador - 5° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: [Oracle](https://www.oracle.com/br/)
+
+<br>
+<div align="center"><img src="https://github.com/PatrickSouzza/ols/blob/main/Oracle_Logo.jpg" width="60%" height="55%"></div>
+<div align="center">
+<br>
+
+[Repositório](https://github.com/GroupHextech/HEXTECH-API6sem?tab=readme-ov-file)
+</div>
+
+## Visão do Projeto
+
+Esta aplicação consiste em um sistema abrangente que ofereçe recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.
+A gestão de fornecedores vai da avaliação de desempenho ao monitoramento de contratos. Além disso, há recursos dedicados à administração de suprimentos, como controle de estoque, gestão de pedidos e monitoramento de entregas. Essa abordagem integrada visa atender eficientemente às demandas essenciais da gestão empresarial.
+
+<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="60%" height="55%"></div>
+
+
+## Tecnologias adotadas na solução
+
+<details>
+<summary>Front-End</summary>
+
+* [JavaScript (ES6)](https://www.javascript.com)
+* [HTML5](https://www.w3schools.com/css/)
+* [CSS3](https://www.w3schools.com/css/)
+* [Vue.js 2](https://vuejs.org/)
+
+
+</details>
+
+<details>
+<summary>Back-End</summary>
+
+* [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+
+* [Spring boot](https://spring.io/projects/spring-boot)
+
+</details>
+
+<details>
+<summary>Banco de Dados</summary>
+
+* [Oracle Autonomous Database](https://www.oracle.com/br/autonomous-database/)
+
+</details>
+
+## Contribuições pessoais
+
+<details>
+  <summary>Front-End</summary>
+  
+### Desing e criação de telas
+
+Desenvolvi os protótipos das telas para garantir que nossa aplicação atendesse às expectativas do cliente tanto em termos de funcionalidade quanto de estética. Essa fase foi crucial para aprimorar o design, assegurando que a experiência do usuário estivesse alinhada com os objetivos do projeto.
+Ao criar os protótipos, pude analisar de forma prática as interações e os fluxos de navegação, proporcionando uma visão concreta da interface do usuário.
+
+### Importação dos dados via CSV
+
+
+No decorrer do projeto, identificou-se a necessidade de incorporar dados ao banco por meio de arquivos CSV. A importação desses dados foi executada usando Axios. Nessa abordagem, o usuário carregava o arquivo diretamente em uma página da aplicação, sendo então enviado ao endpoint do backend por meio de um método POST.
+
+
+### Criação das tabelas
+
+Para a exibição dos dados na aplição foram utilizadas tabelas, onde eu consumi os dados passados pelo endpoint do backend em um método GET e apliquei nas tabelas para uma melhor visualizaçãos dos dados. Isso proporcionou organização eficiente, facilitando a visualização e garantindo uma experiência intuitiva para os usuários.
+
+### Criação de filtros para as tabelas
+
+Devido à quantidade significativa de dados nas tabelas, implementei filtros para aprimorar a rapidez e praticidade da navegação. Essa medida permitiu que os usuários realizassem buscas específicas ou aplicassem filtros para refinar os dados exibidos na tabela.
+
+### Integração do PowerBI com a aplicação
+
+Em determinada fase do projeto, percebi que apenas os dados das tabelas não proporcionavam um acompanhamento rápido e prático. Diante dessa necessidade, realizei a integração do PowerBI com o frontend.
+
+Além disso, implementei a funcionalidade que permite acessar tanto o Dashboard do PowerBI quanto as tabelas na mesma tela. Essa abordagem oferece aos usuários a flexibilidade de escolher a visualização que melhor atende às suas necessidades, proporcionando uma experiência mais completa
+
+</details>
+
+
+
+## Hard Skills
+
+* JavaScript - Intermediário
+* CSS - Intermediário
+* Vue - Intermediário
+* Media Queries - Intermediário
+* Figma - Intermediário 
+* PowerBi - Básico
+* GitHub - Intermediário
+
+## Soft Skills
+
+### Adaptabilidade
+  * Precisei exercitar minha adaptabildade, pois entrei em outro grupo onde pude aprender um pouco mais como lidar com mudanças de equipe e novos estilos de trabalho.
+### Trabalho em equipe
+  * Com uma nova equipe, pude aprender mais com diferentes pontos de vista e desenvolver o projeto em conjunto com toda equipe.
+### Criatividade
+  * Durante o desenvolvimento dos protótipos das telas pude exercitar minha criatividade junto ao time desenvolvendo uma aplicação simples e intuitiva ao usuário.
+### Pensamento Analítico
+  * Durante a prototipagem foi necessário o pensamento analítico para ter uma visão da navegabilidade das telas pelo usuário final onde sempre pensei em deixar simples e intuitiva para o usuário final.
+### Gestão de Tempo
+  * Dentro de minhas atribuições sempre busquei entregar as atividades dentro do prazo para não afetar o desenvolvimento do projeto, onde em alguns pontos foi crucial para o andamento das atividades de outros desenvolvedores do time. 
+
+
+</details>
+
+
+<details>
+  <summary>6º - Imagem / ESRI </summary>
+
+<h1 align="center"> Projeto 6: 1º Semestre de 2024 </h1>
+
+Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2024 | Cliente parceiro: [Imagem / ESRI ](https://www.img.com.br/pt-br/home)
+
+
+<br>
+<div align="center"><img src="https://github.com/PatrickSouzza/ols/blob/main/Oracle_Logo.jpg" width="60%" height="55%"></div>
+<div align="center">
+<br>
+
+[Repositório](https://github.com/GroupHextech/HEXTECH-API5sem)
+</div>
+
+## Visão do Projeto
+
+O propósito desta solução é oferecer uma vasta gama de insights para nosso cliente, fazendo uso tanto de nossa base de dados quanto da análise de sentimentos realizada por uma inteligência artificial. Isso é acompanhado por uma visualização simples e intuitiva, projetada especificamente para a usabilidade do usuário final.
+
+
+<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="60%" height="55%"></div>
+
+
+## Tecnologias adotadas na solução
+
+<details>
+<summary>Front-End</summary>
+
+* [JavaScript (ES6)](https://www.javascript.com)
+* [HTML5](https://www.w3schools.com/css/)
+* [CSS3](https://www.w3schools.com/css/)
+* [React.js](https://pt-br.legacy.reactjs.org)
+
+
+</details>
+
+<details>
+<summary>Back-End</summary>
+
+* [Python](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+
+* [Flask](https://spring.io/projects/spring-boot)
+
+</details>
+
+<details>
+<summary>Banco de Dados</summary>
+
+* [MongoDB](https://www.mongodb.com)
+
+* [Firebase](https://firebase.google.com)
+
+
+</details>
+
+## Contribuições pessoais
+
+<details>
+  <summary>Front-End</summary>
+  
+### Desing e criação de telas
+
+### Mapa de Calor com dados das vendas nacionais 
+
+### Autenticação de Usuário
+
+### Persistencia dos dados de usuário
+
+
+</details>
+
+
+
+## Hard Skills
+
+* JavaScript - Avançado
+* CSS - Intermediário
+* React.js - Intermediário
+* Media Queries - Intermediário
+* Figma - Intermediário
+* Firebase - Básico
+* GitHub - Avançado 
+
+## Soft Skills
+
+### Adaptabilidade
+  * Precisei exercitar minha adptabildade pois entrei em outro grupo onde pude aprender um pouco mais como lidar com mudanças de equipe e novos estilos de trabalho.
+### Trabalho em equipe
+  * Com uma nova equipe pude aprender mais com diferentes pontos de vista e desenvolver o projeto em conjunto com toda equipe.
+### Criatividade
+  * Durante o desenvolvimento dos protótipos das telas pude exercitar minha criatividade junto ao time desenvolvendo uma aplicação simples e intuitiva ao usuário.
+### Pensamento Analítico
+  * Durante a protótipagem foi necessario o pensamento analítico para ter uma visão da navegabilidade das telas pelo usuário final onde sempre pensei em deixar simples e intuitiva para o usuário final.
+### Gestão de Tempo
+  * Dentro de minhas atribuições sempre busquei entregar as atividades dentro do prazo para não afetar o desenvolvimento do projeto onde em alguns pontos foi crucial para o andamento das atividades de outros desenvolvedores do time. 
+
+
+</details>
+
+
+
