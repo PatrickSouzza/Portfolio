@@ -558,7 +558,7 @@ Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2024 | Cliente pa
 
 
 <br>
-<div align="center"><img src="https://github.com/PatrickSouzza/ols/blob/main/Oracle_Logo.jpg" width="60%" height="55%"></div>
+<div align="center"><img src="https://github.com/PatrickSouzza/Portfolio/blob/main/_0893aa90-9d1f-48sssss7f-9ce5-bc6a1f07adf8.png" width="60%" height="55%"></div>
 <div align="center">
 <br>
 
@@ -570,7 +570,7 @@ Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2024 | Cliente pa
 O propósito desta solução é oferecer uma vasta gama de insights para nosso cliente, fazendo uso tanto de nossa base de dados quanto da análise de sentimentos realizada por uma inteligência artificial. Isso é acompanhado por uma visualização simples e intuitiva, projetada especificamente para a usabilidade do usuário final.
 
 
-<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="60%" height="55%"></div>
+<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="50%" height="45%"></div>
 
 
 ## Tecnologias adotadas na solução
