@@ -558,7 +558,7 @@ Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2024 | Cliente pa
 
 
 <br>
-<div align="center"><img src="https://github.com/PatrickSouzza/Portfolio/blob/main/_0893aa90-9d1f-48sssss7f-9ce5-bc6a1f07adf8.png" width="60%" height="55%"></div>
+<div align="center"><img src="https://github.com/PatrickSouzza/Portfolio/blob/main/imagem.png" width="60%" height="55%"></div>
 <div align="center">
 <br>
 
