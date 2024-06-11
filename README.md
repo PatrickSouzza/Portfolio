@@ -564,7 +564,7 @@ Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2024 | Cliente pa
 O propósito desta solução é oferecer uma vasta gama de insights para nosso cliente, fazendo uso tanto de nossa base de dados quanto da análise de sentimentos realizada por uma inteligência artificial. Isso é acompanhado por uma visualização simples e intuitiva, projetada especificamente para a usabilidade do usuário final.
 
 
-<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/Mockup/Project%20in%20Operation/ProjectOperationSprint4.gif" width="50%" height="45%"></div>
+<div align="center"><img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint2.gif" width="50%" height="45%"></div>
 
 
 ## Tecnologias adotadas na solução
