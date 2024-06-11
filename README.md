@@ -95,11 +95,9 @@ Utilizei a biblioteca "pytelegrambotapi" para criar um bot do Telegram com uma i
 ## Soft Skills
 
 ### Trabalho em Equipe
-  * No meu primeiro projeto tive a oportunidade de desenvolver meu trabalho em equipe juntamente com meus colegas de sala onde desenvolvemos a aplicação sem empecilhos.
-### Responsabilidade
-  * Tive a responsabilidade de desenvolver minha parte do projeto atendendo os requisitos definidos juntamente da equipe e cliente.
+  * Este foi meu primeiro projeto em uma equipe Scrum, onde tive que aprender completamente o fluxo de trabalho do zero, desde as reuniões diárias até as cerimônias de planejamento e revisão.
 ### Autonomia
-  * Desenvolvi minha autonomia estudando as ferramentas a serem utilizadas no projeto e colocá-las em prática atendendo aos requisitos da funcionalidade.
+  * Ao dar meus primeiros passos na programação, precisei exercer minha autonomia ao estudar as ferramentas que utilizaríamos no desenvolvimento.
 ### Resolução de problemas
   * Junto com a equipe, solucionei problemas diversos como as inconsistencias da base de dados que nos foi fornecida como na parte de datas e alguns dados que não eram relevantes para o bot.
     
@@ -179,12 +177,14 @@ Neste projeto, fui responsável pelo front-end, abrangendo tanto o design quanto
 * Figma - Básico
 
 ## Soft Skills
-### Trabalho em equipe
-  * Pude continuar desenvolvendo meu trabalho em equipe com a time do semestre anterior e também com o novos membros incluidos.
+
+### Adaptabilidade
+
+* Com uma nova ferramenta totalmente diferente daquela que eu estava acostumado, precisei estudá-la e me adaptar ao modelo de desenvolvimento que ela proporcionava, para assim atender às necessidades da equipe.
+
 ### Criatividade
-  * Exercitei minha criatividade tanto na prótotipagem quando no desnvolvimento das telas da aplicação onde precisei criar alternativas visualmente agradáveis e funcionais.
-### Pensamento Analítico
-  * Tanto durante a prototipagem quanto no desenvolvimento das telas, foi necessário o pensamento analítico e se colocar no lugar do usuário final para proporcionar uma experiência satisfatória para o mesmo.  
+  * Devido à limitação da ferramenta que estávamos utilizando neste projeto (Scene Builder), foi necessário aplicar bastante criatividade para cumprir os designs e funcionalidades desenvolvidas em equipe..
+ 
 ### Resolução de problemas
   * Durante este projeto tive diversos problemas com a responsividade e com toda a integração da ferramenta onde precisei adaptar muitas funcionalidades para a ferramenta utilizada.
 
@@ -290,10 +290,8 @@ Essa funcionalidade pode ser útil em cenários onde você precisa processar ou 
   
 ## Soft Skills
 
-### Gestão de Tempo
-  * Neste projeto organizei meu tempo de forma mais eficiente entregando sempre as atividades dentro do prazo estipulado de acordo com a complexidade da tarefa.
 ### Proatividade
-  * Ajudei outros colegas de time com tasks relacionadas ao Front-End como responsividade e estilização.
+  * Auxiliei outros colegas de equipe com tarefas relacionadas ao Front-End, aproveitando minha experiência anterior em responsividade e estilização..
 ### Flexibilidade
   * Durante este projeto atuei tanto no Back-End como no Front-End e me adaptando bem a nova função.
 ### Resolução de problemas 
@@ -427,7 +425,7 @@ Como Scrum Master, minha responsabilidade foi conduzir e coordenar as atividades
 ### Adaptabilidade
   * Precisei exercitar minha adptabildade quando entrei para outro grupo onde a mão de obra era menor que do time anterior.
 ### Gestão de Tempo
-  * Devido a pouca mão de obra a gestão de tempo foi fundamental para o desnvolvimento do projeto onde devíamos acompanhar cada tasks com atenção aos prazos.
+  * Devido a pouca mão de obra a gestão de tempo foi fundamental para o desenvolvimento do projeto onde devíamos acompanhar cada tasks com atenção aos prazos.
 ### Flexibilidade
   * Durante este projeto atuei como Scrum Master, responsável pelo Front-End e pelo Banco de Dados, onde precisei me flexibilizar entre todas as funções a serem exercidas.
 ### Criatividade
@@ -534,16 +532,12 @@ Além disso, implementei a funcionalidade que permite acessar tanto o Dashboard 
 
 ## Soft Skills
 
-### Adaptabilidade
-  * Precisei exercitar minha adaptabildade, pois entrei em outro grupo onde pude aprender um pouco mais como lidar com mudanças de equipe e novos estilos de trabalho.
-### Trabalho em equipe
-  * Com uma nova equipe, pude aprender mais com diferentes pontos de vista e desenvolver o projeto em conjunto com toda equipe.
+### Organização
+  * Em determinado ponto do projeto, foi necessário reorganizá-lo, pois estávamos desfalcados e precisávamos atender aos requisitos.
 ### Criatividade
-  * Durante o desenvolvimento dos protótipos das telas pude exercitar minha criatividade junto ao time desenvolvendo uma aplicação simples e intuitiva ao usuário.
-### Pensamento Analítico
-  * Durante a prototipagem foi necessário o pensamento analítico para ter uma visão da navegabilidade das telas pelo usuário final onde sempre pensei em deixar simples e intuitiva para o usuário final.
-### Gestão de Tempo
-  * Dentro de minhas atribuições sempre busquei entregar as atividades dentro do prazo para não afetar o desenvolvimento do projeto, onde em alguns pontos foi crucial para o andamento das atividades de outros desenvolvedores do time. 
+  * Durante o desenvolvimento dos protótipos das telas, precisávamos incluir o máximo de insights possíveis sem comprometer a experiência do usuário. Tive a ideia de dividir os insights em gráficos e tabelas.
+### Empatia
+  * Ao integrar um novo grupo, conheci alguns alunos com dificuldades em certas áreas e me esforcei para ajudar no que pude.
 
 
 </details>
@@ -611,12 +605,13 @@ O propósito desta solução é oferecer uma vasta gama de insights para nosso c
   <summary>Front-End</summary>
   
 ### Desing e criação de telas
-
+Auxiliei em todas as etapas do design do produto, inclusive na reestruturação completa do design de uma entrega para outra. Participei ativamente no desenvolvimento da maioria das telas da aplicação.
 ### Mapa de Calor com dados das vendas nacionais 
-
+O cliente solicitou uma visualização dos dados através de um mapa de calor. Desenvolvi essa visualização utilizando o mapa do Brasil, onde os nossos dados estão concentrados.
 ### Autenticação de Usuário
-
-### Persistencia dos dados de usuário
+Desenvolvi a autenticação de usuários utilizando o Firebase, implementando todo o sistema de cadastro e login. Esse trabalho incluiu a configuração segura das credenciais dos usuários, a integração com a interface da aplicação.
+### Controle de Dados do usuário
+Durante o desenvolvimento da aplicação, fui responsável por gerenciar os dados dos usuários, incluindo a exibição e modificação, para garantir conformidade com os requisitos da LGPD.
 
 
 </details>
@@ -635,16 +630,12 @@ O propósito desta solução é oferecer uma vasta gama de insights para nosso c
 
 ## Soft Skills
 
-### Adaptabilidade
-  * Precisei exercitar minha adptabildade pois entrei em outro grupo onde pude aprender um pouco mais como lidar com mudanças de equipe e novos estilos de trabalho.
-### Trabalho em equipe
-  * Com uma nova equipe pude aprender mais com diferentes pontos de vista e desenvolver o projeto em conjunto com toda equipe.
-### Criatividade
-  * Durante o desenvolvimento dos protótipos das telas pude exercitar minha criatividade junto ao time desenvolvendo uma aplicação simples e intuitiva ao usuário.
+### Negociação
+  * Ao longo das entregas, negociamos com o cliente sobre uma funcionalidade que violava os direitos do usuário, assegurando que nenhuma violação ocorresse.
+### Resiliência
+  * Após a primeira entrega, ficamos insatisfeitos com o design da aplicação. Por isso, nos organizamos e reestruturamos todo o front-end..
 ### Pensamento Analítico
-  * Durante a protótipagem foi necessario o pensamento analítico para ter uma visão da navegabilidade das telas pelo usuário final onde sempre pensei em deixar simples e intuitiva para o usuário final.
-### Gestão de Tempo
-  * Dentro de minhas atribuições sempre busquei entregar as atividades dentro do prazo para não afetar o desenvolvimento do projeto onde em alguns pontos foi crucial para o andamento das atividades de outros desenvolvedores do time. 
+  * Vendo que o time do back-end estava com dificuldades com a autenticação de usuario, desenvolvi a autenticação de usuário com firebase reduzindo a carga de trabalho do back-end.
 
 
 </details>
