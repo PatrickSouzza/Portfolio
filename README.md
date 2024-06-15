@@ -63,7 +63,7 @@ Desenvolvido com o objetivo de aprimorar a acessibilidade e simplificar a obten�
 
 ### Leitura e Manipulação dos dados
 Utilizei a biblioteca "Pandas" para ler e manipular os dados fornecidos pelo back-end, realiza algumas operações de manipulação de dados, como a soma de colunas específicas no DataFrame e a identificação da data mais recente no DataFrame.
-Foi feita a formatação de números de casos, óbitos, população, para facilitar a leitura e apresentação no bot do Telegram.
+Fiz a formatação de números de casos, óbitos, população, para facilitar a leitura e apresentação no bot do Telegram.
 
 ### API Bot do Telegram
 
@@ -172,7 +172,6 @@ Neste projeto, fui responsável pelo front-end, abrangendo tanto o design quanto
 
 * HTML - Intermediário
 * CSS - Básico
-* Media Queries - Básico
 * JavaFX - Intermediário
 * Figma - Básico
 
@@ -254,7 +253,7 @@ Desenvolvemos uma aplicação completa e altamente funcional para baixar, tratar
   <p>Implementei o desenvolvimento de telas em um aplicativo Spring Boot utilizando o framework Thymeleaf. Criei as páginas HTML para cada tela desejada, definindo sua estrutura e layout. Integrei as páginas HTML ao aplicativo Spring Boot, utilizando recursos do Thymeleaf para renderizar dados dinâmicos e processar lógica condicional. Implementei a navegação entre as telas e obtive um aplicativo com telas funcionais e interativas.
     
   ### Estilização 
-  <p>Realizei a estilização e manutenção das telas do aplicativo, priorizando a adaptabilidade para dispositivos móveis. Utilizei media queries e técnicas de design responsivo para ajustar o layout e os estilos das telas em diferentes tamanhos de tela. Realizei testes em diversos dispositivos e implementei práticas de manutenção para garantir uma experiência consistente. As telas foram estilizadas de forma responsiva, proporcionando uma experiência de usuário otimizada em dispositivos móveis.</p>
+  <p>Realizei a estilização e manutenção das telas do aplicativo, priorizando a adaptabilidade para dispositivos móveis. Utilizei Css e técnicas de design responsivo para ajustar o layout e os estilos das telas em diferentes tamanhos de tela. Realizei testes em diversos dispositivos e implementei práticas de manutenção para garantir uma experiência consistente. As telas foram estilizadas de forma responsiva, proporcionando uma experiência de usuário otimizada em dispositivos móveis.</p>
   <p>Estilizei os gráficos nas telas de relatórios do aplicativo, utilizando bibliotecas de gráficos para criar visualizações interativas. Apliquei estilos personalizados aos gráficos, garantindo uma aparência profissional e adaptando-os a diferentes tamanhos de tela. Realizei testes em vários dispositivos para garantir uma experiência visual agradável. Os gráficos nas telas de relatórios oferecem uma representação clara e atraente dos dados aos usuários..</p>
 
 </details>
@@ -265,7 +264,7 @@ Desenvolvemos uma aplicação completa e altamente funcional para baixar, tratar
   ### Código de Download
 
 Desenvolvi um código de automação de download que baixa um arquivo .ZIP de dados históricos de uma URL com base em um ano fornecido como parâmetro. Ele cria um diretório específico para o ano, excluindo-o primeiro se já existir. O arquivo baixado é salvo nesse diretório. O código também registra informações sobre a execução em um arquivo de log chamado "log.txt".
-Ao chamar esse método, os arquivos contidos no arquivo ZIP são extraídos e colocados no diretório específico, facilitando o acesso e a manipulação desses arquivos. A remoção do arquivo ZIP economiza espaço em disco, já que os arquivos já foram extraídos.
+Ao chamar esse método, os arquivos contidos no arquivo ZIP são extraídos e colocados no diretório específico, facilitando o acesso e a manipulação desses arquivos. A remoção do arquivo ZIP economiza espaço em disco, uma vez que os arquivos já foram extraídos.
 Essa funcionalidade pode ser útil em cenários onde você precisa processar ou analisar os dados contidos nos arquivos ZIP baixados, e a extração automatizada simplifica o processo, economizando tempo e esforço.
                
   ### Mapeamento das Tabelas do banco
@@ -359,7 +358,7 @@ Desenvolver um software web responsivo e intuitivo para a Embraer, proporcionand
 <details>
   <summary>Front-End</summary>
 <br>
-Ao longo do desenvolvimento do projeto, minha contribuição desempenhou um papel na criação de uma experiência de usuário, focada na estética, usabilidade e responsividade. Como responsável pela implementação das telas da aplicação em Vue, bem como pela elaboração do CSS e das media queries.
+Ao longo do desenvolvimento do projeto, minha contribuição desempenhou um papel na criação de uma experiência de usuário, focada na estética, usabilidade e responsividade. Como responsável pela implementação das telas da aplicação em Vue, bem como pela elaboração do CSS e da responsividade.
 
 ### Desenvolvimento de Telas Vue:
 
@@ -376,7 +375,7 @@ Adotei uma abordagem modular na criação de componentes Vue, promovendo a reuti
 
 #### Design Responsivo
 
-Implementei media queries de forma estratégica para garantir que a aplicação fosse visualmente agradável e funcional em diversos dispositivos, como desktops, tablets e smartphones.
+Implementei CSS de forma estratégica para garantir que a aplicação fosse visualmente agradável e funcional em diversos dispositivos, como desktops, tablets e smartphones.
 Ajustei o layout e a disposição dos elementos, garantindo uma experiência consistente e intuitiva em todas as resoluções de tela.
 
 Implementei variáveis de estilo para facilitar a manutenção e ajustes futuros na estilização além de manter uma padronização para os componentes.
@@ -387,7 +386,7 @@ Implementei variáveis de estilo para facilitar a manutenção e ajustes futuros
   <summary>Banco de Dados</summary>
   
 ### Conexão do Autonomous Database
-Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet, e configurando todo o ambiente em que o Banco de dados estava hospedado.
+Executei a conexão do banco de dados com a aplicação, por meio da pasta Wallet e configurando todo o ambiente em que o Banco de dados estava hospedado.
 
 ### Modelagem de Dados:
 Contribui para a modelagem de dados de forma eficiente, considerando as relações entre entidades e as necessidades específicas da Embraer. Garanti que a estrutura do banco de dados fosse intuitiva e otimizada para consultas frequentes.
@@ -415,7 +414,6 @@ Como Scrum Master, minha responsabilidade foi conduzir e coordenar as atividades
 * CSS - Intermediário
 * Vue - Básico
 * Chart.JS - Básico
-* Media Queries - Intermediário
 * Banco de dados - Intermediário
 * Autonomous Database - Básico
 
@@ -423,7 +421,7 @@ Como Scrum Master, minha responsabilidade foi conduzir e coordenar as atividades
 ## Soft Skills
 
 ### Adaptabilidade
-  * Precisei exercitar minha adptabildade quando entrei para outro grupo onde a mão de obra era menor que do time anterior.
+  * Precisei exercitar minha adaptabilidade quando entrei para outro grupo onde a mão de obra era menor que do time anterior.
 ### Gestão de Tempo
   * Devido a pouca mão de obra a gestão de tempo foi fundamental para o desenvolvimento do projeto onde devíamos acompanhar cada tasks com atenção aos prazos.
 ### Flexibilidade
@@ -491,7 +489,7 @@ A gestão de fornecedores vai da avaliação de desempenho ao monitoramento de c
 <details>
   <summary>Front-End</summary>
   
-### Desing e criação de telas
+### Design e criação de telas
 
 Desenvolvi os protótipos das telas para garantir que nossa aplicação atendesse às expectativas do cliente tanto em termos de funcionalidade quanto de estética. Essa fase foi crucial para aprimorar o design, assegurando que a experiência do usuário estivesse alinhada com os objetivos do projeto.
 Ao criar os protótipos, pude analisar de forma prática as interações e os fluxos de navegação, proporcionando uma visão concreta da interface do usuário.
@@ -525,7 +523,6 @@ Além disso, implementei a funcionalidade que permite acessar tanto o Dashboard 
 * JavaScript - Intermediário
 * CSS - Intermediário
 * Vue - Intermediário
-* Media Queries - Intermediário
 * Figma - Intermediário 
 * PowerBi - Básico
 * GitHub - Intermediário
@@ -623,7 +620,6 @@ Durante o desenvolvimento da aplicação, fui responsável por gerenciar os dado
 * JavaScript - Avançado
 * CSS - Intermediário
 * React.js - Intermediário
-* Media Queries - Intermediário
 * Figma - Intermediário
 * Firebase - Básico
 * GitHub - Avançado 
@@ -633,7 +629,7 @@ Durante o desenvolvimento da aplicação, fui responsável por gerenciar os dado
 ### Negociação
   * Ao longo das entregas, negociamos com o cliente sobre uma funcionalidade que violava os direitos do usuário, assegurando que nenhuma violação ocorresse.
 ### Resiliência
-  * Após a primeira entrega, ficamos insatisfeitos com o design da aplicação. Por isso, nos organizamos e reestruturamos todo o front-end..
+  * Após a primeira entrega, ficamos insatisfeitos com o design da aplicação. Por isso, nos organizamos e reestruturamos todo o front-end.
 ### Pensamento Analítico
   * Vendo que o time do back-end estava com dificuldades com a autenticação de usuario, desenvolvi a autenticação de usuário com firebase reduzindo a carga de trabalho do back-end.
 
