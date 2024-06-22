@@ -609,7 +609,8 @@ O cliente solicitou uma visualização dos dados através de um mapa de calor. D
 Desenvolvi a autenticação de usuários utilizando o Firebase, implementando todo o sistema de cadastro e login. Esse trabalho incluiu a configuração segura das credenciais dos usuários, a integração com a interface da aplicação.
 ### Controle de Dados do usuário
 Durante o desenvolvimento da aplicação, fui responsável por gerenciar os dados dos usuários, incluindo a exibição e modificação, para garantir conformidade com os requisitos da LGPD.
-
+### Versionamento dos termos da aplicação
+Desenvolvi a lógica completa de versionamento dos termos da aplicação, desde a criação de novos termos até a inclusão de opcionais, além do histórico de aceites do usuário.
 
 </details>
 
